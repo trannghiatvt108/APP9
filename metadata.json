@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Quản lý Công việc Đo đạc \u0026 Bản vẽ",
+  "description": "Hệ thống quản lý hồ sơ, hợp đồng đo đạc địa chính và vẽ bản đồ dành cho điện thoại Android và máy tính văn phòng, hỗ trợ xuất báo cáo, báo trễ hẹn, phân quyền và sao lưu dữ liệu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
